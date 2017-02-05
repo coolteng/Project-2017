@@ -6,7 +6,7 @@
 
 Elsevier 在中国有公司，有微信公众号（gh_ea77d19ec5e9），二维码如下：
 
-![](/img/qrcode_gh_ea77d19ec5e9_1.jpg)
+![](img/qrcode_gh_ea77d19ec5e9_1.jpg)
 
 2012年1月21日，菲尔兹奖获得者、剑桥大学数学系教授 Timothy Gowers 在 [Blog 发文抵制荷兰出版商 Elsevier](https://gowers.wordpress.com/2012/01/21/elsevier-my-part-in-its-downfall/) 。
 
