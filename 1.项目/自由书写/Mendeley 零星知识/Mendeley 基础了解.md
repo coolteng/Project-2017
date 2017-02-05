@@ -1,6 +1,6 @@
 #Mendeley 基础了解
 
-Mendeley 是一个文档管理系统，本文使用 PDF 。
+Mendeley 是一个文档管理系统。我主要用它管理 PDF 文件。
 
 ## 0. Mendeley 简史
 
@@ -87,42 +87,4 @@ Mendeley 分为 **网页版** 与（在本地执行的） **程序版** ，两�
 
 ### 2.8 
 
-> Unable to open PDF - It may be damaged
-> 
-> 无法打开PDF - 可能已损坏
-
-### 2.9
-
-> Mark  as read
-> 
-> 标记为已读
-
-## 3. 一些技巧
-
-### 3.1 如何避免上传pdf文件到Mendeley的网站
-
-1. 点击： "Edit settings" 
-2. un-check "synchronize attatched files"
-
-![](img/Mendeley-5.png)
-
-取消同步后，本地的文件目录会上传到网络，但文件不会同步上去。
-
-但是在取消同步的情况下，仍然可以手动上传文件到网络。
-
-### 3.2 下载浏览器导入插件
-
-地址：[https://www.mendeley.com/reference-management/web-importer/](https://www.mendeley.com/reference-management/web-importer/)
-
-### 3.3 Mendeley 把本地的 PDF 文件存储在什么位置
-
-如果本地文件删除会存储到这个地方：C:\Users\digit\AppData\Local\Mendeley Ltd\Mendeley Desktop\Downloaded ，这个可以在 Tools - Options - File Organizer 修改。
-
-
-
-
-
-
-
-
-
+> Unable to open PDF - 
