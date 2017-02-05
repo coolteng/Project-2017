@@ -1,12 +1,12 @@
 #Mendeley 基础了解
 
-Mendeley 是一个文档管理系统。我主要用它管理 PDF 文件。
+Mendeley 是一个文档管理系统，我主要用它管理 PDF 文件。
 
 ## 0. Mendeley 简史
 
-Mendeley 一开始是由三个德国苦逼PhD捣鼓出来的，名字源于遗传学家孟德尔（Gregor Mendel）和化学家门捷列夫（Dmitri Mendeleyev）。Mendeley甫一出世就凭借其超前的理念和强大的产品功能获得多个欧洲大奖。
+Mendeley 一开始是由三个德国苦逼 PhD 捣鼓出来的，名字源于遗传学家孟德尔（Gregor Mendel）和化学家门捷列夫（Dmitri Mendeleyev）。Mendeley甫一出世就凭借其超前的理念和强大的产品功能获得多个欧洲大奖。
 
-2013 年Mendeley 被出版大鳄[ Elsevier ](https://github.com/ooof/Project-2017/blob/master/1.%E9%A1%B9%E7%9B%AE/%E8%87%AA%E7%94%B1%E4%B9%A6%E5%86%99/Mendeley%20%E9%9B%B6%E6%98%9F%E7%9F%A5%E8%AF%86/Mendeley%20%E6%AF%8D%E5%85%AC%E5%8F%B8%E7%AE%80%E5%8F%B2.md)收购。
+2013 年Mendeley 被出版大鳄 Elsevier 收购，Elsevier 曾遭学术界的抵制，[ 详情看这里 ](https://github.com/ooof/Project-2017/blob/master/1.%E9%A1%B9%E7%9B%AE/%E8%87%AA%E7%94%B1%E4%B9%A6%E5%86%99/Mendeley%20%E9%9B%B6%E6%98%9F%E7%9F%A5%E8%AF%86/Mendeley%20%E6%AF%8D%E5%85%AC%E5%8F%B8%E7%AE%80%E5%8F%B2.md)。
 
 ## 1. Mendeley 功能介绍
 
