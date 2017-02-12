@@ -1,6 +1,6 @@
 #临汾雾霾大事记
 
-![](/img/BlueLinfenHistory.png)
+![](img/BlueLinfenHistory.png)
 
 
 
