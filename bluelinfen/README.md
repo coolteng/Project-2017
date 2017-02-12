@@ -15,7 +15,7 @@
 
 但事情远远没有到可以结束的时候，而是一切才仅仅开始，仍然有太多的事情需要去做，这里目前做下面两件事。
 
-1. [临汾雾霾大事记](https://github.com/ooof/Project-2017/tree/master/bluelinfen/Linfen-AirPollution-History.md)
+1. [临汾硫霾大事记](https://github.com/ooof/Project-2017/tree/master/bluelinfen/Linfen-AirPollution-History.md)
 2. [抵抗雾霾的可用资源](https://github.com/ooof/Project-2017/tree/master/bluelinfen/Linfen-AirPollution-Resources.md)
 
 其中临汾硫霾大事记，以 2017年1月初硫霾爆发为起始，计划以超链接的方式记录整个事件过程中的要点事件，供今人后人知晓临汾曾有过的苦难历程，并能引以为戒。
