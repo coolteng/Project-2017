@@ -1,7 +1,0 @@
-
-
-
-官网的在线安装引导程序在下载到45% 的时候，就显示失败。
-
-
-GitHub Desktp 离线安装包：https://github-windows.s3.amazonaws.com/standalone/GitHubDesktop.exe
