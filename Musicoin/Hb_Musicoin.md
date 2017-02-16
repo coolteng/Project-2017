@@ -1,7 +1,5 @@
 # Musicoin，一种全新的音乐发行与消费系统  
 
-
-
 2007年1月10日，一种全新的音乐发行与消费系统诞生，新系统避免了数字音乐免费与代理人收费过多带来的弊端，旨在促进健康的音乐创作与消费环境。同时还诞生了一种全新的音乐货币 —— Musicoin，Musicoin 将新的音乐发行与消费系统提供价值交换。
 
 ![](img/3.14.PNG)
@@ -18,7 +16,7 @@
 - 论坛：[http://forum.musicoin.org/](http://forum.musicoin.org/)
 - 推特：[https://twitter.com/musicoins](https://twitter.com/musicoins)
 - 文档：[https://medium.com/@musicoin](https://medium.com/@musicoin)
-- GitHub：[https://github.com/Musicoin/](https://github.com/Musicoin/) 
+-  GitHub：[https://github.com/Musicoin/](https://github.com/Musicoin/) 
 
  ![](img/logo2.png)
 
