@@ -16,7 +16,7 @@
 - 论坛：[http://forum.musicoin.org/](http://forum.musicoin.org/)
 - 推特：[https://twitter.com/musicoins](https://twitter.com/musicoins)
 - 文档：[https://medium.com/@musicoin](https://medium.com/@musicoin)
--  GitHub：[https://github.com/Musicoin/](https://github.com/Musicoin/) 
+- GitHub：[https://github.com/Musicoin/](https://github.com/Musicoin/) 
 
  ![](img/logo2.png)
 
