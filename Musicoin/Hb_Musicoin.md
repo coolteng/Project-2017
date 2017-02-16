@@ -2,7 +2,7 @@
 
 
 
-2007年1月10日，一种全新的音乐发行与消费系统诞生，相伴还诞生了一种全新的音乐货币 —— Musicoin 。新的系统避免了数字音乐免费与代理人收费过多带来的弊端，旨在促进健康的音乐创作与消费环境。
+2007年1月10日，一种全新的音乐发行与消费系统诞生，新系统避免了数字音乐免费与代理人收费过多带来的弊端，旨在促进健康的音乐创作与消费环境。同时还诞生了一种全新的音乐货币 —— Musicoin，Musicoin 将新的音乐发行与消费系统提供价值交换。
 
 ![](img/3.14.PNG)
 
@@ -18,10 +18,9 @@
 - 论坛：[http://forum.musicoin.org/](http://forum.musicoin.org/)
 - 推特：[https://twitter.com/musicoins](https://twitter.com/musicoins)
 - 文档：[https://medium.com/@musicoin](https://medium.com/@musicoin)
-
-如果想更具体的了解  Musicoin 代码是如何运行的，也可以访问 Musicoin GitHub 项目地址，通过读取代码你可以深入的了解新系统及音乐币具体是如何运行的。
-
 - GitHub：[https://github.com/Musicoin/](https://github.com/Musicoin/) 
+
+ ![](img/logo2.png)
 
 ##  1. Musicoin 的安装与使用
 
@@ -57,9 +56,9 @@ Musicoin 客户端是用户与系统连接的界面，通过 Musicoin 客户端�
 
 其中系统总长度数字是区块链的区块总数，区块总数 x 500 就是总的货币发行量。 
 
-## 2. 相关信息及链接
+ ![](img/logo2.png)
 
- 
+## 2. 相关信息及链接
 
 ### 2.1 Slack 频道
 
@@ -90,6 +89,7 @@ Musicoin 设立了用于及时交流及技术支持 Slack 账户 [http://slack.m
 
 ### 2.5 挖矿
 
+- 挖矿程序：https://github.com/Musicoin/go-musicoin/releases
 - [https://bitcointalk.org/index.php?topic=1776113](https://bitcointalk.org/index.php?topic=1776113)，关于挖矿的讨论。
 
 
