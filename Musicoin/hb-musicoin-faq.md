@@ -62,4 +62,8 @@ Musicoin 系统中的所有硬币都来自采矿。然而，我们知道大多�
 
 我们想确保每个音乐家和听众都有一个良好的使用 Musicoin 的体验，所以我们慢慢增加用户数量。如果您是音乐家或只是对测试有兴趣，请发送电子邮件至 musicoin@musicoin.org。
 
+
+----------
+
+
 参考来源：[https://alpha.musicoin.org/faq#WhatIsARecipient](https://alpha.musicoin.org/faq#WhatIsARecipient)
