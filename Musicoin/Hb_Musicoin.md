@@ -1,22 +1,31 @@
-# Musicoin，一种全新的音乐发行与消费系统  
+# Musicoin（樂幣），一种全新的音乐发行与消费模式
 
-2007年1月10日，一种全新的音乐发行与消费系统诞生，新系统避免了数字音乐免费与代理人收费过多带来的弊端，旨在促进健康的音乐创作与消费环境。同时还诞生了一种全新的音乐货币 —— Musicoin，Musicoin 将新的音乐发行与消费系统提供价值交换。
+> 采用第三代加密数字货币，比第一代智能，比第二代实用，且专门用于人人都需要的音乐消费。
+
+
+2017年1月10日，一种全新的音乐发行与消费模式诞生，新模式避免了数字音乐免费（削减音乐家的创造动力）与代理人收费过多（削减音乐家的收入）带来的弊端，旨在促进健康的音乐创作与消费环境。与新模式相匹配，还诞生了一种全新的数字货币 —— Musicoin，中文名称为：乐币 与 樂幣，Musicoin （乐币）将为全新的音乐发行与消费模式提供价值交换支持。
 
 ![](img/3.14.PNG)
 
-**新的音乐发行与消费系统应用了以下三种最新技术：**
+**新音乐发行与消费模式采用目前三种最新技术：**
 
 1. [PPP](https://en.wikipedia.org/wiki/Pay_per_play)（Pay per Play，每次播放付费）许可模式。
 2. [IPFS](https://ipfs.io/)（The InterPlanetary File System）点到点的分布式文件分发技术。
-3. [blockchain](https://zh.wikipedia.org/wiki/%E5%8C%BA%E5%9D%97%E9%93%BE) （区块链）技术提供支付。
+3. [blockchain](https://zh.wikipedia.org/wiki/%E5%8C%BA%E5%9D%97%E9%93%BE) （区块链）技术提供支付。以 Ethereum 为基础开发，但借鑑了Bitcoin 的一些教訓，包括交易成本和經濟模式的重新考慮。
+
+**特性**
+
+1. Musicoin 没有总的货币数量，持续供应，采集难度不断增加；单位 block 产生的数量不变，永远是 314 个。
+2. 系统本身不会赚钱，100%歸音樂家所有，全部透明可监督。
+3. 全球流通。
 
 想及时了解 Musicoin 最新信息，可以访问以下 Musicoin 官方媒体：
 
-- 网站：[https://musicoin.org/](https://musicoin.org/) 
-- 论坛：[http://forum.musicoin.org/](http://forum.musicoin.org/)
-- 推特：[https://twitter.com/musicoins](https://twitter.com/musicoins)
-- 文档：[https://medium.com/@musicoin](https://medium.com/@musicoin)
-- GitHub：[https://github.com/Musicoin/](https://github.com/Musicoin/) 
+1. 网站：[https://musicoin.org/](https://musicoin.org/) 
+1. 论坛：[http://forum.musicoin.org/](http://forum.musicoin.org/)
+1. 推特：[https://twitter.com/musicoins](https://twitter.com/musicoins)
+1. 文档：[https://medium.com/@musicoin](https://medium.com/@musicoin)
+1. GitHub：[https://github.com/Musicoin/](https://github.com/Musicoin/) 
 
  ![](img/logo2.png)
 
