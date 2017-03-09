@@ -52,13 +52,7 @@
 
 以录音文件方式，比如 MP3 格式的文件上传就可以。
 
-## 7. 两个中文介绍：
-
-- Musicoin（樂幣），一种全新的音乐发行与消费模式：[https://github.com/ooof/Project-2017/blob/master/Musicoin/Hb_Musicoin.md](https://github.com/ooof/Project-2017/blob/master/Musicoin/Hb_Musicoin.md)
-
-- 音乐家为什么应该（以及如何）使用 Musicoin？：[https://github.com/ooof/Project-2017/blob/master/Musicoin/hb-musicoin-faq.md](https://github.com/ooof/Project-2017/blob/master/Musicoin/hb-musicoin-faq.md)
-
-## 8. 部分用户的评论、疑惑或建议
+## 7. 部分用户的评论、疑惑或建议
 
 - 这个很好，乐评人也会加入。
 - 我觉得如果是纯粹的听歌收费应该很难推广吧。现在的音乐平台那么多，大多数音乐都能免费获得，既然要收费，音乐的质量上就行就得独特才行。
@@ -66,3 +60,12 @@
 - 小众的平台只能是从一些独立音乐上入手，我的意思是，要从音乐的选择上入手，从一些小众的，音乐性强的，非大众音乐平台上能听到的音乐入手，去进行收费，才有可能慢慢有一个良好的循环吧。
 - 音乐家自己去放一些自己的原创demo啊之类的我觉得也挺好的。不一定是完整的，但是在音乐人之间可能会有一个良好的交流。
 - 我觉得这样的话，对音乐的挑选就很重要了。要有品质和独特性的保证。
+
+
+
+## Musicoin 相关文本
+
+1. Musicoin（樂幣），一种全新的音乐发行与消费模式：[https://github.com/ooof/Project-2017/blob/master/Musicoin/Hb_Musicoin.md](https://github.com/ooof/Project-2017/blob/master/Musicoin/Hb_Musicoin.md)
+
+- 音乐家为什么应该（以及如何）使用 Musicoin？：[https://github.com/ooof/Project-2017/blob/master/Musicoin/hb-musicoin-faq.md](https://github.com/ooof/Project-2017/blob/master/Musicoin/hb-musicoin-faq.md)
+- Musicoin （乐币）的通俗介绍：[https://github.com/ooof/Project-2017/blob/master/Musicoin/hb-tongsu.md](https://github.com/ooof/Project-2017/blob/master/Musicoin/hb-tongsu.md)
