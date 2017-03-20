@@ -9,8 +9,8 @@
 ----
 2017/03/20
 
-3. Musicoin，专为音乐价值交换而生的数字货币：[https://github.com/ooof/Project-2017/blob/master/Musicoin/musicoin-readme.md](https://github.com/ooof/Project-2017/blob/master/Musicoin/musicoin-readme.md)
-4. Musicoin 使用说明：[https://github.com/ooof/Project-2017/blob/master/Musicoin/musicoin-use.md](https://github.com/ooof/Project-2017/blob/master/Musicoin/musicoin-use.md)
-2. Musicoin 相关问答：[https://github.com/ooof/Project-2017/blob/master/Musicoin/musicoin-faq.md](https://github.com/ooof/Project-2017/blob/master/Musicoin/musicoin-faq.md)
-2. 其它 Musicoin 资源、信息及技术参数：[https://github.com/ooof/Project-2017/blob/master/Musicoin/musicoin-info.md](https://github.com/ooof/Project-2017/blob/master/Musicoin/musicoin-info.md)
+4. Musicoin，专为音乐价值交换而生的数字货币：[https://github.com/ooof/Project-2017/blob/master/Musicoin/musicoin-readme.md](https://github.com/ooof/Project-2017/blob/master/Musicoin/musicoin-readme.md)
+1. Musicoin 使用说明：[https://github.com/ooof/Project-2017/blob/master/Musicoin/musicoin-use.md](https://github.com/ooof/Project-2017/blob/master/Musicoin/musicoin-use.md)
+1. Musicoin 相关问答：[https://github.com/ooof/Project-2017/blob/master/Musicoin/musicoin-faq.md](https://github.com/ooof/Project-2017/blob/master/Musicoin/musicoin-faq.md)
+1. 其它 Musicoin 资源、信息及技术参数：[https://github.com/ooof/Project-2017/blob/master/Musicoin/musicoin-info.md](https://github.com/ooof/Project-2017/blob/master/Musicoin/musicoin-info.md)
 
