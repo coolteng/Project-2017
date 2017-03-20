@@ -1,4 +1,4 @@
-# 使用 Musicoin
+# Musicoin 使用说明
 
 1. 注册
 2. 音乐播放
