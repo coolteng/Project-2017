@@ -104,12 +104,13 @@ Musicoin 设立了用于及时交流及技术支持 Slack 账户 [http://slack.m
 **最后，期待音乐家们了解入驻，期待音乐爱好者开始挖矿赚钱，也期待各种有拓展性的开发者参与新音乐环境的扩展。**
 
 
-----------
+
+-----
 
 
 ## Musicoin 相关文本
 
 1. Musicoin（樂幣），一种全新的音乐发行与消费模式：[https://github.com/ooof/Project-2017/blob/master/Musicoin/Hb_Musicoin.md](https://github.com/ooof/Project-2017/blob/master/Musicoin/Hb_Musicoin.md)
-
 1. 音乐家为什么应该（以及如何）使用 Musicoin？：[https://github.com/ooof/Project-2017/blob/master/Musicoin/hb-musicoin-faq.md](https://github.com/ooof/Project-2017/blob/master/Musicoin/hb-musicoin-faq.md)
 1. Musicoin （乐币）系统的通俗介绍：[https://github.com/ooof/Project-2017/blob/master/Musicoin/hb-tongsu.md](https://github.com/ooof/Project-2017/blob/master/Musicoin/hb-tongsu.md)
+2. 如何在 Cryptopia 中交易 Musicoin ？[https://github.com/ooof/Project-2017/blob/master/Musicoin/hb_cryptopia.md](https://github.com/ooof/Project-2017/blob/master/Musicoin/hb_cryptopia.md)
