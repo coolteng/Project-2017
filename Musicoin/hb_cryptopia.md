@@ -1,4 +1,4 @@
-# 如何在 Cryptopia 中交易 Musicoin ？
+# 如何在 Cryptopia 市场交易 Musicoin ？
 
 现在可以在 Cryptopia 市场交易 Musicoin （乐币）了。 
 
@@ -19,7 +19,7 @@ Cryptopia 是一个数字货币（几百种）综合应用市场，也包括对�
 - 用数字货币购买彩票
 - 论坛
 
-## 2.  如何在 Cryptopia 中交易 Musicoin ？
+## 2.  如何在 Cryptopia 市场交易 Musicoin ？
 
 Musicoin 已经入驻 Cryptopia ，可以通过以下链接访问。
 
