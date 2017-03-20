@@ -2,7 +2,7 @@
 
 现在可以在 Cryptopia 市场交易 Musicoin （乐币）了。 
 
-Cryptopia 是一个数字货币（几百种）综合应用市场，其中包括数字货币的交易。本文对 Cryptopia 以及如何在  Cryptopia 中交易 Musicoin 做一个基本介绍。
+Cryptopia 是一个数字货币（几百种）综合应用市场，也包括对数字货币交易的支持。本文对 Cryptopia 以及如何在  Cryptopia 中交易 Musicoin 做一个基本介绍。
 
 ## 1. 关于 Cryptopia
 
