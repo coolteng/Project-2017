@@ -29,3 +29,9 @@ Musicoin （MC，乐币）采用第三代加密数字货币，比第一代智能
 1. 货币无预留(No pre-allocation)、无预采(No pre-mined)、无众筹 (No ICO)
 - 系统没有总的货币数量，持续供应，但采集难度不断增加
 - 单位产生的区块数量不变，始终是 314个币/区块/15秒
+
+## 3. 更多介绍
+
+1. Musicoin 使用说明：[https://github.com/ooof/Project-2017/blob/master/Musicoin/musicoin-use.md](https://github.com/ooof/Project-2017/blob/master/Musicoin/musicoin-use.md)
+2. Musicoin 相关问答：[https://github.com/ooof/Project-2017/blob/master/Musicoin/musicoin-faq.md](https://github.com/ooof/Project-2017/blob/master/Musicoin/musicoin-faq.md)
+2. 其它 Musicoin 资源、信息及技术参数：[https://github.com/ooof/Project-2017/blob/master/Musicoin/musicoin-info.md](https://github.com/ooof/Project-2017/blob/master/Musicoin/musicoin-info.md)
