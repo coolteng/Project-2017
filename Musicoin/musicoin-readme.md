@@ -34,3 +34,6 @@ Musicoin （MC，乐币）采用第三代加密数字货币，比第一代智能
 1. Musicoin 使用说明：[https://github.com/ooof/Project-2017/blob/master/Musicoin/musicoin-use.md](https://github.com/ooof/Project-2017/blob/master/Musicoin/musicoin-use.md)
 2. Musicoin 相关问答：[https://github.com/ooof/Project-2017/blob/master/Musicoin/musicoin-faq.md](https://github.com/ooof/Project-2017/blob/master/Musicoin/musicoin-faq.md)
 2. 其它 Musicoin 资源、信息及技术参数：[https://github.com/ooof/Project-2017/blob/master/Musicoin/musicoin-info.md](https://github.com/ooof/Project-2017/blob/master/Musicoin/musicoin-info.md)
+
+
+联系：musicoin@berry.ai
