@@ -59,3 +59,14 @@ Musicoin 会与其它数字货币对接，有些国际交易所已经在准备�
 我们想确保每个音乐家和听众都有一个良好的使用 Musicoin 的体验，所以我们慢慢增加用户数量。如果您是音乐家或只是对测试有兴趣，请在 [https://musicoin.org/invite?type=musician](https://musicoin.org/invite?type=musician) 申请，等待获得邀请。或者如果需要，请发送电子邮件至 musicoin@musicoin.org 联系。
 
 或者，也可以询问你已经开始使用 Musicoin 的朋友，请他们邀请你进来。
+
+
+## 9. 关于歌手与 Musicoin 的版权协议
+
+有些歌手可能希望与 Musicoin 之间的有有一个版权合同。
+
+但在 Musicoin 网站，歌手无须与 Musicoin 或任何第三方签署合同，而是实行歌手的自我控制。
+
+歌手可以发布或移除自己的作品，可以与作品利益相关人分配收入（并且这种分配会自动得到执行，而无需人工干预）。
+
+相对应的，为维护 Musicion 的健康以及保护他人权益，Musicoin 有权力移除被投诉的作品或不合理的内容。
